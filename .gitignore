@@ -53,5 +53,9 @@ docs/_build/
 # PyBuilder
 target/
 
+<<<<<<< HEAD
 #files to ignore
+=======
+# chat log
+>>>>>>> 9a00aff2d2fee2142efa66f0821915180ab5c12e
 chatlog
