@@ -5,6 +5,9 @@
 /local
 /lib
 
+#Misc. shit that annoys flay
+botler.py.swp
+
 =======
 #Virtualenv ~flay 2015
 bin/
