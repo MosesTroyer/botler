@@ -1,9 +1,16 @@
+<<<<<<< Updated upstream
 #Virtualenv
 /bin
 /include
 /local
 /lib
 
+=======
+#Virtualenv ~flay 2015
+bin/
+include/
+local/
+>>>>>>> Stashed changes
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
